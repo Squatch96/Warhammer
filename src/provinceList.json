@@ -1,0 +1,19 @@
+{
+	"Province List": [
+		{
+			"Province": "Albion",
+			"Settlements": [
+				"Citadel of Lead",
+				"Isle of Wights",
+				"Konquata"
+			]
+		},
+		{
+			"Province": "Argwylon",
+			"Settlements": [
+				"Waterfall Palace"
+			]
+		}
+	]
+}
+
